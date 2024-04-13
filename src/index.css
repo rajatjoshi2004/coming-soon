@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(168, 187, 187);
+  /* text-align: center; */
+  margin: 20px;
+  /* text-transform: uppercase; */
+  text-decoration: wavy;
+  font-size: xx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.headings{
+  top: 50%;
+  right: 50%;
+  text-align: center;
+  align-items: center;
+  /* position: relative;
+  margin: auto;
+  width: 50%; */
+    
+  }
